@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Outer Circle -->
+  <circle cx="32" cy="32" r="30" fill="#00D8FF" stroke="#007ACC" stroke-width="2"/>
+  <!-- Inner Circle -->
+  <circle cx="32" cy="32" r="26" fill="#fff"/>
+  <!-- Chatbot Face -->
+  <circle cx="24" cy="24" r="4" fill="#00D8FF"/>
+  <circle cx="40" cy="24" r="4" fill="#00D8FF"/>
+  <path d="M22 38 Q32 48 42 38" stroke="#00D8FF" stroke-width="2" fill="none"/>
+  <!-- Antenna -->
+  <line x1="32" y1="6" x2="32" y2="12" stroke="#007ACC" stroke-width="2"/>
+  <circle cx="32" cy="6" r="2" fill="#007ACC"/>
+</svg>

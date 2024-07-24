@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Tilted Pen -->
+  <g transform="rotate(-45, 50, 50)">
+    <!-- Pen Cap -->
+    <rect x="20" y="15" width="60" height="10" fill="#005B99"/>
+    <!-- Pen Body -->
+    <rect x="20" y="25" width="60" height="50" fill="#007ACC" stroke="#005B99" stroke-width="2"/>
+    <!-- Pen Grip -->
+    <rect x="20" y="75" width="60" height="10" fill="#005B99"/>
+    <!-- Pen Tip -->
+    <polygon points="20,85 80,85 50,100" fill="#005B99"/>
+    <!-- Pen Details (shading) -->
+    <line x1="20" y1="25" x2="20" y2="75" stroke="#005B99" stroke-width="1" opacity="0.3"/>
+    <line x1="80" y1="25" x2="80" y2="75" stroke="#005B99" stroke-width="1" opacity="0.3"/>
+    <line x1="20" y1="35" x2="80" y2="35" stroke="#005B99" stroke-width="1" opacity="0.3"/>
+    <line x1="20" y1="55" x2="80" y2="55" stroke="#005B99" stroke-width="1" opacity="0.3"/>
+  </g>
+</svg>
